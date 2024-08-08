@@ -1,0 +1,36 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(27, 26, 26, 0.973);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Helvetica;
+}
+
+
+#labelnumber{
+    display: block;
+    text-align: center;
+    font-size: 58px;
+    padding-top: 50px;
+}
+.buttonsContainer{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.buttons{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(49, 50, 56);
+    cursor: pointer;
+    color: white;
+}
+.buttons:hover{
+    color: blue;
+}
